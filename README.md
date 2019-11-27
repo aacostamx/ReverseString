@@ -18,10 +18,17 @@ Here we have a few ways to reverse a string using a C# and checking the performa
 |     ReverseRecursive | aacosta.com.mx | 665.97 ns | 14.876 ns | 34.477 ns | 657.21 ns |
 
 // * Legends *
-  text   : Value of the 'text' parameter
-  Mean   : Arithmetic mean of all measurements
-  Error  : Half of 99.9% confidence interval
-  StdDev : Standard deviation of all measurements
-  Median : Value separating the higher half of all measurements (50th percentile)
-  1 ns   : 1 Nanosecond (0.000000001 sec)
+  
+text   : Value of the 'text' parameter
+
+Mean   : Arithmetic mean of all measurements
+
+Error  : Half of 99.9% confidence interval
+
+StdDev : Standard deviation of all measurements
+
+Median : Value separating the higher half of all measurements (50th percentile)
+
+1 ns   : 1 Nanosecond (0.000000001 sec)
+
 
