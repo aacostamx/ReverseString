@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseStr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{1139C9C2-C0A6-4222-985E-F85CB8F18322}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{7FE09996-012D-432C-ABDF-F7B0D44E9F7F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
