@@ -17,8 +17,7 @@ Here we have a few ways to reverse a string using a C# and checking the performa
 |          ReverseLINQ | aacosta.com.mx | 384.81 ns |  7.578 ns | 10.623 ns | 383.72 ns |
 |     ReverseRecursive | aacosta.com.mx | 665.97 ns | 14.876 ns | 34.477 ns | 657.21 ns |
 
-// * Legends *
-  
+
 text   : Value of the 'text' parameter
 
 Mean   : Arithmetic mean of all measurements
