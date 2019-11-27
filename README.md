@@ -1,4 +1,4 @@
-# Most efficient way to reverse a string in c# using BenchmarkDotNet
+# Most efficient way to reverse a string in c#
 
 Here we have a few ways to reverse a string using a C# and checking the performance using BenchmarkDotNet
 
